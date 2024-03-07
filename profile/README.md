@@ -1,6 +1,6 @@
 # J.A.K.L.C
 
-also known as just another kernel level cheat is a project made by ablue and wok for competitive/fps roblox cheating
+Also known as just another kernel level cheat is a project made by ablue and wok for competitive/fps roblox games
 
 ## How do i get access?
 
